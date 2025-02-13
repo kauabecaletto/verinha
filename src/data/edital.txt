@@ -1,0 +1,221 @@
+SUMÁRIO:
+1 - CALENDARIO E DATAS;
+2 - CURSOS;
+2.1 - CURSOS INTEGRADOS DIURNOS;
+2.2 - CURSOS INTEGRADOS NOTURNOS;
+2.3 - CURSOS CONCOMITANTES/SUBSEQUENTES;
+3 - INSCRIÇÃO;
+4 - Cadastro e Preenchimento Eletrônico da Inscrição;
+5 - PAGAMENTO;
+6 - COTAS;
+7- REQUERIMENTO DE USO DO NOME SOCIAL;
+8 - SELEÇÃO;
+9 - CORREÇÃO DA PROVA;
+10 - CONVOCAÇÃO PARA MATRICULA;
+11 - Matrículas e Vagas Remanescentes;
+12 - Disposições Finais;
+13 - Conteúdo da Prova;
+
+1 - Calendário do Processo Seletivo COTIL 2025:
+Solicitação de PRPTI (50% de redução da taxa de inscrição): 09 a 30 de agosto de 2024
+Solicitação de Isenção da Taxa de Inscrição: 09 a 30 de agosto de 2024
+Divulgação do resultado de PRPTI e Isenção (após 16h): 10 de setembro de 2024
+Período de Inscrição: 09 de agosto a 25 de setembro de 2024
+Recolhimento da Taxa de Inscrição: Até 26 de setembro de 2024
+Divulgação dos Locais de Prova (após 16h): 04 de outubro de 2024
+Data da Prova: 13 de outubro de 2024
+Período para Recursos contra Questões da Prova: 14 a 16 de outubro de 2024
+Averiguação Fenotípica dos Candidatos para Cotistas Étnico-Raciais (pretos e pardos): 11 a 14 de novembro de 2024
+Convocação para Matrícula (após 16h) e Divulgação do Calendário e Orientações: 13 de dezembro de 2024
+
+2 - Cursos Oferecidos:
+Os Cursos Técnicos Integrados ao Ensino Médio são destinados a candidatos que possuem o Ensino Fundamental completo ou estão concluindo o 9º ano, e são exclusivos para aqueles que ainda não possuem o Ensino Médio completo, conforme o item 15.3. Os cursos disponíveis são os seguintes:
+
+2.1Cursos INTEGRADOS diurno:
+Desenvolvimento de Sistemas (diurno, 3 anos): 40 vagas, com 14 destinadas às cotas étnico-raciais (PPI), 14 às cotas sociais (EPU) e 12 para ampla concorrência (AC).
+Edificações (diurno, 3 anos): 40 vagas, com 14 destinadas às cotas étnico-raciais (PPI), 14 às cotas sociais (EPU) e 12 para ampla concorrência (AC).
+Enfermagem (diurno, 3 anos): 40 vagas, com 14 destinadas às cotas étnico-raciais (PPI), 14 às cotas sociais (EPU) e 12 para ampla concorrência (AC). Este curso exige estágio obrigatório concomitante.
+Agrimensura (diurno, 3 anos): 40 vagas, com 14 destinadas às cotas étnico-raciais (PPI), 14 às cotas sociais (EPU) e 12 para ampla concorrência (AC).
+Mecânica (diurno, 3 anos): 40 vagas, com 14 destinadas às cotas étnico-raciais (PPI), 14 às cotas sociais (EPU) e 12 para ampla concorrência (AC).
+Qualidade (diurno, 3 anos): 40 vagas, com 14 destinadas às cotas étnico-raciais (PPI), 14 às cotas sociais (EPU) e 12 para ampla concorrência (AC).
+Além desses, os cursos disponíveis no período noturno são:
+
+2.2 - Cursos INTEGRADOS noturno:
+Desenvolvimento de Sistemas (noturno, 3 anos): 40 vagas, com 14 destinadas às cotas étnico-raciais (PPI), 14 às cotas sociais (EPU) e 12 para ampla concorrência (AC).
+Agrimensura (noturno, 3 anos): 40 vagas, com 14 destinadas às cotas étnico-raciais (PPI), 14 às cotas sociais (EPU) e 12 para ampla concorrência (AC).
+Mecânica (noturno, 3,5 anos): 40 vagas, com 14 destinadas às cotas étnico-raciais (PPI), 14 às cotas sociais (EPU) e 12 para ampla concorrência (AC).
+Qualidade (noturno, 3 anos): 40 vagas, com 14 destinadas às cotas étnico-raciais (PPI), 14 às cotas sociais (EPU) e 12 para ampla concorrência (AC).
+Os Cursos Técnicos Concomitantes/Subsequentes ao Ensino Médio são voltados para candidatos que estejam cursando o Ensino Médio em outro período ou que já tenham concluído o Ensino Médio. Os cursos oferecidos são:
+
+2.3 - CURSOS CONCOMITANTES/SUBSEQUENTES:
+Desenvolvimento de Sistemas concomitante/subsequente (noturno, 2 anos): 40 vagas, com 14 destinadas às cotas étnico-raciais (PPI), 14 às cotas sociais (EPU) e 12 para ampla concorrência (AC).
+Edificações concomitante/subsequente (noturno, 2 anos): 40 vagas, com 14 destinadas às cotas étnico-raciais (PPI), 14 às cotas sociais (EPU) e 12 para ampla concorrência (AC).
+Enfermagem concomitante/subsequente (tarde, 2 anos): 40 vagas, com 14 destinadas às cotas étnico-raciais (PPI), 14 às cotas sociais (EPU) e 12 para ampla concorrência (AC). Esse curso exige estágio obrigatório concomitante.
+Mecânica concomitante/subsequente(noturno, 2 anos): 40 vagas, com 14 destinadas às cotas étnico-raciais (PPI), 14 às cotas sociais (EPU) e 12 para ampla concorrência (AC).
+Qualidade concomitante/subsequente (noturno, 2 anos): 40 vagas, com 14 destinadas às cotas étnico-raciais (PPI), 14 às cotas sociais (EPU) e 12 para ampla concorrência (AC).
+Prótese Dentária concomitante/subsequente (noturno, 2 anos): 30 vagas, com 11 destinadas às cotas étnico-raciais (PPI), 11 às cotas sociais (EPU) e 8 para ampla concorrência (AC). Este curso também exige estágio obrigatório.
+As aulas dos cursos técnicos oferecidos pelo COTIL no período diurno (cursos Desenvolvimento de Sistemas, Edificações, Enfermagem, Agrimensura, Mecânica, Qualidade,) serão ministradas de segunda a sexta-feira, das 7h30 às 12h e das 13h às 17h30, podendo haver simulados, reposição de aulas, visitas técnicas, oficinas e palestras aos sábados. No curso Técnico em Enfermagem (concomitante/subsequente ao Ensino Médio) (curso 23), as aulas ocorrerão de segunda a sexta-feira, das 13h às 18h. Para os cursos no período noturno (cursos 11, 14, 15, 16, 21, 22, 25, 26 e 27), as aulas serão realizadas de segunda a sexta-feira, das 19h às 23h, com aulas aos sábados no período da manhã e/ou à tarde, conforme a distribuição das aulas.
+
+3 - INSCRIÇÃO:
+A inscrição para o processo seletivo envolve as seguintes etapas:
+Leitura do Edital;
+Criação do Cadastro no Portal do Candidato;
+Preenchimento do Formulário de Dados Pessoais e do Questionário Socioeconômico;
+Inscrição no curso desejado;
+Pagamento da taxa de inscrição via boleto bancário.
+Cada candidato pode se inscrever apenas uma vez, para um único curso.
+
+4 - Cadastro e Preenchimento Eletrônico da Inscrição:
+O candidato deve criar um cadastro no Portal do Candidato (www.exame.cotil.unicamp.br) entre 09 de agosto e 25 de setembro de 2024, com um login e senha para acessar o processo de inscrição.
+O cadastro permite ao responsável (se for menor de idade) também gerenciar a inscrição.
+Durante a inscrição, é necessário informar o número do CPF e do documento de identidade do candidato, não sendo permitidos CPF ou documentos de pais ou responsáveis.
+O candidato precisa ter uma conta de e-mail ativa e o CPF para ativação do cadastro e recuperação de senha.
+O preenchimento dos dados é de responsabilidade do candidato ou de seu responsável, que deve conhecer todas as normas do edital.
+Etapas do Cadastro:
+Acesse o Portal e clique em "Entrar", depois em "Quero me cadastrar".
+Preencha os dados e finalize o cadastro.
+Uma mensagem será enviada ao e-mail fornecido, com um link de ativação. Caso não encontre, aguarde 1 hora ou revise o cadastro.
+Ao acessar a conta pela primeira vez, o candidato deve preencher os Dados Pessoais e o Questionário Socioeconômico.
+Após o preenchimento, o candidato deve confirmar os dados e concordar com o edital, finalizando com "Salvar".
+Realização da Inscrição:
+Acesse o Portal, faça login com CPF e senha.
+Escolha o curso e a cidade para a prova (Limeira ou Campinas).
+Envie o formulário de inscrição.
+
+
+5 - Pagamento:
+Após a inscrição, o botão "Gerar Boleto" ficará disponível. O pagamento da taxa de R$110,00 deve ser feito até 26 de setembro de 2024, em banco, lotérica ou pela internet. Guarde o comprovante de pagamento, pois, em caso de agendamento, o pagamento só será confirmado após a transação bancária.
+A isenção de pagamento da taxa de inscrição para o Processo Seletivo Público COTIL 2025 será oferecida em duas modalidades: (1) para alunos(as) oriundos(as) de escolas públicas que recebam remuneração mensal inferior a 1,5 salário mínimo (R$ 2.118,00) ou estejam desempregados(as); e (2) para servidores(as) ou filhos(as) de servidores(as) da UNICAMP, FUNCAMP, e funcionários(as) de empresas terceirizadas que prestam serviços à Universidade. O período para solicitar a isenção será de 09 a 30 de agosto de 2024, por meio da declaração de interesse disponível no Portal do Candidato (www.exame.cotil.unicamp.br).
+Os candidatos devem anexar documentos comprobatórios em formato PDF ou imagem (PNG, JPEG ou BMP) que comprovem sua condição. As opções incluem: (7.3.1) certidão ou declaração de matrícula de escola pública; (7.3.2) documentos como contracheque, extrato de rendimentos ou comprovantes de benefícios sociais para comprovação de renda; (7.3.3) documentos de desemprego, como recibos de seguro-desemprego ou rescisão de contrato; e (7.3.4) documentos para comprovar vínculo com a UNICAMP, FUNCAMP ou empresas terceirizadas, como holerite ou declaração de vínculo.
+É essencial que todos os documentos sejam enviados corretamente, pois a falta de qualquer um pode resultar na exclusão do candidato do processo de isenção. Além disso, a legibilidade dos documentos é de responsabilidade do candidato ou de seu responsável legal, e documentos enviados após o prazo não serão aceitos. A lista dos candidatos beneficiados será divulgada no dia 10 de setembro de 2024, após às 16h, e o candidato contemplado deverá completar sua inscrição até 25 de setembro de 2024.
+O Programa de Redução Parcial da Taxa de Inscrição (PRPTI) visa possibilitar a participação de candidatos que, por dificuldades financeiras, não poderiam arcar com a taxa do Processo Seletivo Público COTIL 2025, conforme estabelecido pela Lei Estadual nº 12782 de 20 de dezembro de 2007. A redução de 50% da taxa de inscrição, que equivale a R$ 55,00, está disponível para estudantes regularmente matriculados em qualquer nível de ensino (fundamental, médio, pré-vestibular, graduação ou pós-graduação) ou para aqueles que recebem uma remuneração inferior a dois salários mínimos (R$ 2.824,00) ou estão desempregados. A solicitação da redução pode ser feita entre 09 e 30 de agosto de 2024, através do Portal do Candidato. Para isso, os interessados devem anexar a documentação comprobatória, que inclui comprovantes de matrícula e documentos de renda ou desemprego, conforme as condições específicas para cada caso. Caso não apresentem a documentação corretamente, os candidatos serão excluídos do programa. A lista dos contemplados será divulgada no dia 10 de setembro de 2024. Os candidatos que tiverem o pedido aprovado devem completar sua inscrição no processo seletivo até 25 de setembro de 2024, gerando o boleto de pagamento e efetuando o pagamento da taxa reduzida até o dia 26 de setembro de 2024. Caso o pagamento não seja realizado corretamente, a inscrição não será validada, e o candidato não será incluído no processo seletivo.
+Informações Finais:
+O COTIL não se responsabiliza por falhas técnicas durante o processo de inscrição.
+Não será possível alterar dados após o período de inscrições.
+A inscrição só será validada após o pagamento e confirmação bancária.
+Em hipótese alguma, haverá devolução da taxa de inscrição.
+A isenção de pagamento da taxa de inscrição para o Processo Seletivo Público COTIL 2025 será oferecida em duas modalidades: (1) para alunos(as) oriundos(as) de escolas públicas que recebam remuneração mensal inferior a 1,5 salário mínimo (R$ 2.118,00) ou estejam desempregados(as); e (2) para servidores(as) ou filhos(as) de servidores(as) da UNICAMP, FUNCAMP, e funcionários(as) de empresas terceirizadas que prestam serviços à Universidade. O período para solicitar a isenção será de 09 a 30 de agosto de 2024, por meio da declaração de interesse disponível no Portal do Candidato (www.exame.cotil.unicamp.br).
+Os candidatos devem anexar documentos comprobatórios em formato PDF ou imagem (PNG, JPEG ou BMP) que comprovem sua condição. As opções incluem: (7.3.1) certidão ou declaração de matrícula de escola pública; (7.3.2) documentos como contracheque, extrato de rendimentos ou comprovantes de benefícios sociais para comprovação de renda; (7.3.3) documentos de desemprego, como recibos de seguro-desemprego ou rescisão de contrato; e (7.3.4) documentos para comprovar vínculo com a UNICAMP, FUNCAMP ou empresas terceirizadas, como holerite ou declaração de vínculo.
+É essencial que todos os documentos sejam enviados corretamente, pois a falta de qualquer um pode resultar na exclusão do candidato do processo de isenção. Além disso, a legibilidade dos documentos é de responsabilidade do candidato ou de seu responsável legal, e documentos enviados após o prazo não serão aceitos. A lista dos candidatos beneficiados será divulgada no dia 10 de setembro de 2024, após às 16h, e o candidato contemplado deverá completar sua inscrição até 25 de setembro de 2024.
+
+6 - COTAS:
+O Programa de Cotas Étnico-Raciais e Sociais da UNICAMP segue as diretrizes estabelecidas pela Deliberação (UNICAMP) CONSUA-21, de 02 de junho de 2020. A participação no programa é opcional, e o candidato, ou seu responsável, deve indicar a opção pelo programa durante o período de inscrições, até 25 de setembro de 2024. Para fazer essa escolha, o candidato deve acessar o sistema de inscrições, preencher o CPF e senha, selecionar a opção de cota desejada e enviar a documentação necessária.
+As cotas serão distribuídas em três grupos: o Grupo 1 destina 35% das vagas para estudantes pretos, pardos ou indígenas que cursaram o Ensino Fundamental II integralmente em escola pública; o Grupo 2, com 35% das vagas, é voltado para estudantes que cursaram o Ensino Fundamental II em escola pública, independentemente da etnia; e o Grupo 3, com 30% das vagas, será destinado à ampla concorrência, incluindo candidatos que não foram selecionados nas cotas específicas.
+O preenchimento das vagas será feito com base nas opções e declarações dos candidatos. Caso as vagas de um grupo não sejam preenchidas, os candidatos de outros grupos poderão ser convocados para preenchê-las. Além disso, se a aplicação dos percentuais resultar em números fracionados, o número será arredondado para o próximo número inteiro.
+A validação da condição de cotista étnico-racial será feita por uma Comissão de Averiguação, que utilizará critérios fenotípicos para verificar a autenticidade da autodeclaração dos candidatos pretos, pardos ou indígenas. Caso a autodeclaração seja indeferida, o candidato perderá o direito à vaga reservada e será considerado na ampla concorrência.
+Candidatos autodeclarados indígenas deverão comprovar sua etnia por meio de documentos como o Registro Administrativo de Nascimento Indígena (RANI) ou uma declaração assinada por lideranças indígenas, que também será validada pela Comissão.
+
+7- REQUERIMENTO DE USO DO NOME SOCIAL:
+O uso do nome social é assegurado conforme as Resoluções CNE/CP nº 1, de 19 de janeiro de 2018, e GR-005/2020 da UNICAMP, de 13 de janeiro de 2020. O candidato deve indicar no Formulário de Inscrição se deseja que seu nome social seja impresso nos documentos oficiais do Processo Seletivo Público COTIL 2025. Para isso, deve preencher o requerimento disponível no ANEXO V, até o dia 25 de setembro de 2024.
+Candidatos maiores de 18 anos devem anexar no Portal do Candidato, em formato PDF ou imagem (PNG, JPEG ou BMP), o requerimento preenchido com firma reconhecida do próprio candidato. Já candidatos menores de 18 anos devem anexar o requerimento preenchido com firma reconhecida dos pais ou responsáveis.
+A inclusão do nome social será feita pela substituição do prenome registrado no civil pelo nome social, mantendo o sobrenome civil. O nome social será impresso nos documentos oficiais do Processo Seletivo Público COTIL 2025 apenas se o requerimento for enviado dentro do prazo estipulado.
+
+8 - SELEÇÃO:
+A seleção dos candidatos ocorrerá no dia 13 de outubro de 2024 (domingo), às 14h, por meio de prova presencial. A relação dos locais e das salas onde cada candidato realizará sua prova será divulgada no dia 04 de outubro de 2024, após às 16h, na página do Processo Seletivo Público COTIL 2025 e no Portal do Candidato. O candidato não poderá realizar a prova em local diferente do indicado.
+A prova será composta por duas partes: uma prova objetiva, de caráter apenas classificatório, composta por 48 questões de múltipla escolha, e uma redação, de caráter eliminatório e classificatório, conforme a Deliberação (UNICAMP) CONSU-A-21, de 02 de junho de 2020. A prova objetiva incluirá 12 questões de Língua Portuguesa, 12 questões de Matemática, 8 questões de Ciências da Natureza, 8 questões de História e 8 questões de Geografia. O programa de estudos para a prova objetiva está descrito no ANEXO VI - PROGRAMA DE ESTUDOS. A redação deverá ter no mínimo 8 linhas e no máximo 12 linhas. Redações com menos de 8 linhas, identificação pessoal, desenhos, mensagens ofensivas ou desconexas com o tema serão anuladas.
+As questões de múltipla escolha deverão ser respondidas em folha de resposta específica, entregue pelos fiscais de sala, exclusivamente com caneta esferográfica azul ou preta. Caso sejam assinaladas mais de uma alternativa ou haja rasura, a questão será anulada. A redação deverá ser desenvolvida em folha específica entregue pelos fiscais de sala, utilizando caneta esferográfica azul ou preta.
+Não haverá vista ou revisão da folha de resposta ou da folha de redação. O candidato deverá comparecer ao local da prova com 30 minutos de antecedência, portando um documento de identidade original com foto recente, comprovante de inscrição, caneta esferográfica azul ou preta, lápis, apontador ou lapiseira e borracha. A partir das 13h30, os portões serão abertos e o candidato deve se encaminhar à sala designada.
+Aos pais e acompanhantes não será permitido permanecer dentro dos locais de prova. Às 14h, os acessos serão fechados e a prova terá início. Não será permitido o acesso de pessoas externas às Comissões do Processo Seletivo após as 14h.
+A duração da prova será de 3h30, e o candidato só poderá deixar a sala após 90 minutos de início da prova. Durante a prova, será realizada a identificação civil dos candidatos, por meio da verificação do documento de identidade e coleta de assinatura, impressões digitais e/ou identificação facial.
+Ao final da prova, os candidatos deverão entregar a folha de respostas da prova objetiva e a folha de redação aos fiscais da sala. O caderno de questões poderá ser levado pelo candidato. É proibido o uso de celulares, smartphones, smartwatches, tablets, relógios eletrônicos, calculadoras, boné ou similar, corretivo líquido ou de fita.
+O gabarito da prova objetiva será divulgado no dia 13 de outubro de 2024, a partir das 18h, no endereço eletrônico www.exame.cotil.unicamp.br. Eventuais objeções a alguma questão deverão ser encaminhadas à Comissão Executiva do Processo Seletivo por e-mail para vestibulinho@cotil.unicamp.br no prazo de até 3 dias úteis após a divulgação do gabarito. O resultado do recurso será comunicado exclusivamente ao interessado por e-mail. Se uma questão for anulada ou tiver o gabarito retificado, a alteração será aplicada a todos os candidatos do processo seletivo, independentemente de terem interposto recurso.
+
+9 - CORREÇÃO DA PROVA:
+A correção da prova será feita em duas etapas: primeiro, a correção dos gabaritos da prova objetiva, e depois, a correção da redação. O número de redações corrigidas será de até quatro vezes o número de vagas no curso, considerando as maiores notas da prova objetiva.
+Cada questão correta da prova objetiva valerá 1 ponto. Já a redação receberá uma nota de até 10 pontos. Quem tirar 0 na redação será desclassificado, pois a redação tem caráter eliminatório e classificatório.
+Após somar a pontuação da prova objetiva e da redação, os candidatos serão classificados em ordem decrescente de notas. Se houver empate, os critérios de desempate serão os seguintes: maior nota na redação, maior nota em Matemática, maior nota em Português, maior nota em Ciências da Natureza, maior nota em História, maior nota em Geografia e, se o empate persistir, maior idade (considerando a data e a hora de nascimento).
+
+10 - CONVOCAÇÃO PARA MATRICULA:
+A 1ª chamada para matrícula será divulgada às 16h de 13 de dezembro de 2024 no site oficial, contendo o número de inscrição e o nome dos candidatos selecionados para cada curso, conforme a divisão de vagas. A convocação seguirá uma lista única de candidatos classificados por ordem de notas, com a identificação dos candidatos PPI e EPU para preenchimento das vagas reservadas.
+A convocação será feita conforme a seguinte divisão:
+Grupo 1: Serão convocados os candidatos pretos, pardos ou indígenas de escolas públicas brasileiras (PPI e EPU), até preencherem as vagas previstas. Caso haja vagas remanescentes, serão convocados os próximos candidatos autodeclarados pretos, pardos ou indígenas que não tenham cursado integralmente o Ensino Fundamental II em escola pública.
+Grupo 2: Serão convocados os candidatos de escola pública (EPU), independentemente da declaração étnico-racial, até preencherem as vagas previstas. Caso haja vagas remanescentes, serão convocados candidatos de ampla concorrência.
+Grupo 3: Serão convocados os candidatos de ampla concorrência, incluindo os candidatos PPI e EPU não convocados para as vagas reservadas.
+Primeiramente, serão convocados os candidatos dos Grupos 1 e 2, conforme a classificação. Depois, serão convocados os do Grupo 3. Se houver vagas não preenchidas pelos Grupos 1 e 2, elas serão transferidas para o Grupo 3.
+Os candidatos não convocados na 1ª Chamada devem acompanhar as próximas listas de convocação no site oficial, conforme o calendário de matrículas. É responsabilidade do candidato se informar sobre as listas de chamadas.
+
+11 - Matrículas e Vagas Remanescentes:
+As matrículas seguirão a convocação dos candidatos, que será divulgada no site www.exame.cotil.unicamp.br. O calendário e as orientações para matrícula serão publicados em 13 de dezembro de 2024 no mesmo site. É responsabilidade do candidato, ou seu responsável, se informar sobre essas orientações.
+As vagas remanescentes são aquelas não ocupadas após a convocação dos classificados para matrícula. Caso existam vagas remanescentes, será publicado um calendário específico para preenchê-las. Apenas candidatos que se inscreveram e foram classificados no processo seletivo, mas não foram convocados para matrícula, poderão se inscrever nesse processo. As inscrições serão feitas por ampla concorrência, sem considerar cotas.
+Para se inscrever, o candidato deve acessar o portal do candidato, preencher o CPF e a senha pessoal, marcar a opção de interesse para as vagas remanescentes, escolher o curso e enviar a inscrição. Cada candidato pode se inscrever para apenas um curso e as inscrições não serão aceitas após o prazo final.
+A seleção será baseada na nota final do processo seletivo e os critérios de desempate seguem as regras do edital. A lista dos classificados será divulgada no site, e a primeira chamada para matrícula também será publicada ali. Os candidatos que não forem convocados na primeira chamada deverão acompanhar as próximas chamadas no site. A matrícula será feita conforme a convocação e as orientações específicas.
+ara se inscrever no processo de vagas remanescentes, o candidato deve acessar o Portal do Candidato no site, preencher seu CPF e senha, indicar seu interesse em participar do processo, escolher o curso para o qual deseja concorrer e enviar o formulário de inscrição.
+
+12 - Disposições Finais:
+A prestação de informações falsas pelo candidato levará ao cancelamento de sua matrícula, além das sanções legais cabíveis.
+Caso seja comprovado que o candidato não cumpriu as informações no formulário de inscrição, ele será desclassificado, perderá a vaga ou terá a matrícula cancelada.
+Candidatos que já concluíram o Ensino Médio não podem se matricular nos cursos técnicos integrados ao ensino médio. Se isso for descoberto, a matrícula será cancelada.
+Os resultados do processo seletivo são válidos apenas para o ano letivo de 2025.
+Todos os editais e informações complementares serão divulgados no site www.exame.cotil.unicamp.br. O candidato é responsável por acompanhar essas informações e não pode alegar desconhecimento.
+Os dados e resultados dos candidatos serão divulgados no site www.exame.cotil.unicamp.br para garantir transparência no processo seletivo.
+Caso ocorram situações não previstas, a Comissão Executiva do Processo Seletivo tomará as decisões necessárias.
+
+ Português:
+Gêneros textuais.
+Acentuação.
+Ortografia.
+Estrutura e formação das palavras.
+Pontuação.
+Classes de palavras.
+Período simples e composto: relações de sentido.
+Concordâncias nominal e verbal.
+Regências nominal e verbal.
+Figuras de linguagem.
+Variações linguísticas.
+
+Matemática:
+Números naturais, inteiros, racionais e irracionais.
+Potenciação, radiciação.
+Expressões algébricas.
+Produtos notáveis e fatorações.
+Razões e proporções.
+Porcentagem.
+Equações de 1º e 2º graus.
+Sistemas de equações de 1º grau.
+Elementos fundamentais da geometria plana e semelhança de figuras planas.
+Relações métricas e trigonométricas no triângulo retângulo.
+Áreas de figuras planas.
+Noções de estatística.
+
+Ciências da Natureza:
+Cinemática: Movimento uniforme, movimento uniformemente variado e movimento circular uniforme.
+Dinâmica de Newton.
+Energia mecânica e transferência de energia.
+Energia térmica: Temperatura e conceitos de equilíbrio térmico.
+Fisiologia do som.
+Princípios de astronomia.
+Magnetismo terrestre.
+Propriedades da matéria: gerais, específicas, e mudanças do estado físico da matéria.
+Constituição da matéria: o átomo, prótons, nêutrons e elétrons; massas, número atômico e número de massa.
+Elemento químico: simbologia e representação.
+Ligações químicas: substâncias simples e substâncias compostas.
+Misturas: processos de separação de misturas homogêneas e heterogêneas.
+Reações químicas: equação química e balanceamento.
+Corpo humano: organização celular e funcionamento dos sistemas do corpo humano.
+Programas de saúde: doenças sexualmente transmissíveis, nutrição e saúde, consumo de drogas e suas consequências.
+Biodiversidade e evolução: bactérias, fungos, protozoários, vírus, animais vertebrados e invertebrados, e vegetais.
+Meio ambiente: organização do ecossistema, relações ecológicas, interação homem e meio ambiente (qualidade da água, tratamento de lixo, resíduos e esgoto, poluição, desmatamento e impactos).
+
+História:
+Tempo, espaço e formas de registros: processos de hominização e sedentarização.
+A invenção do mundo clássico e o contraponto com outras sociedades: o mundo antigo.
+Lógicas de organização política: cidades, estado e passagem ao medievo.
+Trabalho e formas de organização social e cultural: servidão e mundo cristão.
+O mundo moderno e a conexão entre sociedades africanas, americanas e europeias.
+Humanismos, Renascimentos e o Novo Mundo.
+A organização do poder e as dinâmicas do mundo colonial americano: dominação, conflitos e resistências indígenas.
+Lógicas comerciais e mercantis da modernidade: escravização autóctone, africana e emergência do capitalismo.
+O mundo contemporâneo: o Antigo Regime em crise, iluminismo, revoluções e revoltas.
+Os processos de independência nas Américas.
+O Brasil no século XIX.
+Configurações do mundo no século XIX: nacionalismos e imperialismos.
+O nascimento da República no Brasil e os processos históricos até a metade do século XX.
+Totalitarismos e conflitos mundiais.
+Modernização, ditadura civil-militar e redemocratização: o Brasil após 1946.
+A história recente: revoluções, pluralidades e conflitos contemporâneos.
+
+Geografia:
+Cartografia: representações da paisagem e cartográfica, escalas, linguagens dos mapas e cartografia e poder.
+Geografia econômica e meio ambiente: ciclos da natureza e a sociedade, atividades econômicas e o espaço geográfico, patrimônio ambiental e a sua conservação, crise ambiental, produção e consumo de energia, a produção do espaço geográfico global.
+Território brasileiro: regionalização, domínios naturais do Brasil, Brasil: população e economia, redes urbanas e sociais.
+Geopolítica: globalização, a nova "desordem" mundial e o mundo contemporâneo.
