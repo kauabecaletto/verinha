@@ -1,0 +1,425 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    background: #faf6f2;
+}
+
+
+/* Cabeçalho */
+
+header {
+    margin: 10px 40px;
+    height: 60px;
+    background: #dcc8b6;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 100px;
+    border-radius: 10px;
+}
+
+.logo {
+    font-size: 20px;
+    font-weight: bold;
+    color: #000000;
+}
+
+.hamburguer{
+    display: none;
+}
+
+.nav-bar ul{
+    display: flex;
+}
+
+.nav-bar ul li a{
+    display: block;
+    color: #000000;
+    font-size: 14px;
+    padding: 10px 25px;
+    border-radius: 10px;
+    transition: 0.2s;
+    margin: 0 5px;
+}
+
+.nav-bar ul li a:hover{
+    background: #000000;
+    color: #faf6f2;
+    transition: 0.2s;
+}
+
+.nav-bar ul li a.active {
+    background: #000000;
+    color: #faf6f2;
+}
+
+@media only screen and (max-width: 1320px){
+    header{
+        padding: 0 50px;
+    }
+}
+
+@media only screen and (max-width: 1100px){
+    header{
+        padding: 0 30px;
+    }
+}
+
+@media only screen and (max-width: 900px){
+    .hamburguer{
+        display: block;
+        cursor: pointer;
+    }
+
+    .hamburguer .line{
+        transition: 0.5;
+        width: 30px;
+        height: 3px;
+        background: #000000;
+        margin: 6px 0;
+    }
+
+    .nav-bar{
+        height: 0;
+        position: absolute;
+        top: 80px;
+        left: 0;
+        right: 0;
+        width: 100vw;
+        background: #dcc8b6;
+        transition: 0.5s;
+        overflow: hidden;
+    }
+
+    .nav-bar.active{
+        height: 450px;
+    }
+
+    .nav-bar ul{
+        display: block;
+        width: fit-content;
+        margin: 80px auto 0 auto;
+        text-align: center;
+        transition: 0.5s;
+        opacity: 0;
+    }
+    
+    .nav-bar.active ul{
+        opacity: 1;
+    }
+
+    .nav-bar ul li a{
+        margin-bottom: 12px;
+    }
+}
+
+/* Corpo */
+
+    .containerSobre{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        height: 100%;
+    }
+
+    .backgroundSobre{
+        margin-top: 50px;
+        background: #e4dace;
+        border-radius: 10px;
+        width: 90%;
+        height: 450px;
+    }
+    
+    .titulo {
+        font-size: 28px;
+        font-weight: 500;
+        color: #000000;
+        margin-top: 40px;
+        margin-left: 70px;
+    }
+    .tituloTec {
+        font-size: 28px;
+        font-weight: 500;
+        color: #000000;
+        margin-top: 40px;
+    }
+
+    .titulo strong{
+        font-weight: 400;
+    }
+
+    .containerSobre2{
+        
+        display: flex;
+        justify-content: center;
+        margin-top: 15px;
+    }
+
+    .backgroundInsp{
+        margin-left: 25px;
+        background: #dcc8b6;
+        border-radius: 10px;
+        width: 375px;
+        height: 300px;
+    }
+
+    .backgroundInsp:hover{
+        transition: 0.3s;
+        transform: scale(1);
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);    
+    }
+    
+    .backgroundProblem{
+        margin-left: 25px;
+
+        background: #dcc8b6;
+        border-radius: 10px;
+        width: 375px;
+        height: 300px;
+    }
+
+    .backgroundProblem:hover{
+        transition: 0.3s;
+        transform: scale(1);
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);    
+    }
+
+    .backgroundSol{
+        margin-left: 25px;
+            background: #dcc8b6;
+            border-radius: 10px;
+            width: 375px;
+            height: 300px;
+    }
+
+    .backgroundSol:hover{
+        transition: 0.3s;
+        transform: scale(1);
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);    
+    }
+
+    .imgVerinha{
+        border-radius: 10px;
+        width: 375px;
+        height: 300px;
+}
+
+    /* .imgVerinha img:hover{
+        transition: 0.3s;
+        transform: scale(1);
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);    
+    } */
+
+    .imgVerinha img{
+        width: 100%;
+        height: 100%;
+        border-radius: 10px;
+
+    }
+
+        
+    .tituloDiv{
+        font-size: 20px;
+        font-weight: 400;
+        margin-top: 20px;
+        margin-left: 15px;
+    }    
+    
+
+    .textoDiv{
+        font-size: 16px;
+        font-weight: 300;
+        margin: 10px 15px 10px 15px;
+    }	 
+
+    .containerTec{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        height: 100%;
+    }
+
+    .backgroundTec{
+        margin-top: 30px;
+        border-radius: 10px;
+        width: 80%;
+        height: 300px;
+    }
+
+    .containerTec2{
+        display: flex;
+        margin-top: 15px;
+    }
+
+    .backgroundIA{
+        margin-top: 10px;
+        background: #dcc8b6;
+        border-radius: 10px;
+        width: 500px;
+        height: 150px;
+    }
+
+    
+    .backgroundIA:hover{
+        background: #e4dace;
+        transition: 0.3s;
+        transform: scale(1.05);
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);    
+    }
+
+    .backgroundModern{
+        margin-top: 10px;
+        margin-left: 40px;
+        background: #dcc8b6;
+        border-radius: 10px;
+        width: 500px;
+        height: 150px;
+    }
+
+    .backgroundModern:hover{
+        background: #e4dace;
+        transition: 0.3s;
+        transform: scale(1.05);
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);    
+    }
+
+    .backgroundEscala{
+        margin-top: 10px;
+        margin-left: 40px;
+        background: #dcc8b6;
+        border-radius: 10px;
+        width: 500px;
+        height: 150px;
+    }
+
+    .backgroundEscala:hover{
+        background: #e4dace;
+        transition: 0.3s;
+        transform: scale(1.05);
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);    
+    }
+
+    .containerComo{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        height: 100%;
+    }
+
+    .backgroundComo{
+        margin-bottom: 50px;
+        margin-top: 50px;
+        background: #e4dace;
+        border-radius: 10px;
+        width: 90%;
+        height: 300px;
+    }
+
+    .containerComo2{
+        display: flex;
+        justify-content: center;
+        margin-top: 15px;
+    }
+
+    .background1{
+        background: #dcc8b6;
+        border-radius: 10px;
+        width: 520px;
+        height: 150px;
+    }
+
+    .background1:hover{
+        transition: 0.3s;
+        transform: scale(1);
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);    
+    }
+    
+    .background2{
+        margin-left: 25px;
+        background: #dcc8b6;
+        border-radius: 10px;
+        width: 520px;
+        height: 150px;
+    }
+
+    .background2:hover{
+        transition: 0.3s;
+        transform: scale(1);
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);    
+    }
+
+    .background3{
+        margin-left: 25px;
+        background: #dcc8b6;
+        border-radius: 10px;
+        width: 520px;
+        height: 150px;
+    }
+
+    .background3:hover{
+        transition: 0.3s;
+        transform: scale(1);
+        box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);    
+    }
+
+    /* Footer */
+
+    #footer {
+        background-color: #dcc8b6;
+        color: #000000;
+        padding: 20px;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    .divFooter {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+    
+    .logoUnicamp img {
+        max-height: 40px;
+        width: auto;
+    }
+    
+    .divCopyright {
+        flex: 1;
+        text-align: center;
+        padding: 10px;
+    }
+    
+    .logosRedes {
+        display: flex;
+        gap: 15px;
+    }
+    
+    .logosRedes a img {
+        max-width: 40px;
+        height: auto;
+    }
+    
+    /* Responsividade */
+    @media (max-width: 768px) {
+        .divFooter {
+            flex-direction: column;
+            text-align: center;
+        }
+    
+        .logosRedes {
+            justify-content: center;
+        }
+    }
+    

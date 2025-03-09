@@ -7,7 +7,7 @@
 }
 
 body {
-    background: linear-gradient(90deg, #80615b, #927a75);
+    background: #faf6f2;
     color: #FFFFFF;
 }
 
@@ -19,7 +19,7 @@ html {
 
 a {
     text-decoration: none;
-    color: #FFFFFF;
+    color: black;
     transition: color 0.3s ease;
 }   
 
@@ -58,7 +58,7 @@ nav {
 }
 
 .cabecalho {
-    background: rgba(114, 85, 79, 0.3);
+    background: #dcc8b6;
     margin: 10px;
     border-radius: 10px;
 }
@@ -153,8 +153,8 @@ footer {
     display: flex; 
     align-items: center;
     justify-content: space-between; 
-    background-color: rgba(114, 85, 79, 0.3); 
-    color: #fff;
+    background-color: #dcc8b6; 
+    color: black;
     padding: 20px; 
 }
 
