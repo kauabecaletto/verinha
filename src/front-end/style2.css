@@ -9,10 +9,19 @@
     box-sizing: border-box;
 }
 
+
+
 body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
     background: #faf6f2;
 }
 
+main {
+    flex: 1;
+    padding-bottom: 30px;
+}
 
 /* Cabeçalho */
 
@@ -423,3 +432,116 @@ header {
         }
     }
     
+    .mainDev{
+        margin-bottom: 1000px;
+    }
+
+    .containerDev{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        height: 100%;
+    }
+
+    .backgroundDev{
+        margin-top: 50px;
+        border-radius: 10px;
+        width: 90%;
+    }
+    
+    .tituloDev {
+        font-size: 28px;
+        font-weight: 500;
+        color: #000000;
+        margin-top: 40px;
+        margin-left: 70px;
+    }
+
+    .tituloDev strong{
+        font-weight: 400;
+    }
+
+    .tituloInfos{
+        font-size: 50px;
+        font-weight: 400;
+        margin-top: 20px;
+        margin-left: 15px;
+        box-shadow: 15px 0 0 0 #dcc8b6, -5px 0 0 0 #dcc8b6;
+	    background: #dcc8b6;
+	    display: inline;
+	    padding: 3px 0 !important;
+	    position: relative;
+    }    
+    
+
+    .textoInfos{
+        font-size: 30px;
+        font-weight: 300;
+        margin: 10px 15px 10px 15px;
+        box-shadow: 15px 0 0 0 #dcc8b6, -5px 0 0 0 #dcc8b6;
+	    background: #dcc8b6;
+	    padding: 3px 0 !important;
+	    position: relative;
+    }	 
+
+    .containerInfos{
+        margin-top: 20px;
+        margin-left: 60px;
+        border-radius: 10px;
+        width: 600px;
+    }
+
+
+    .tituloSobre{
+        font-size: 25px;
+        font-weight: 400;
+        margin-left: 15px;
+    }    
+    
+
+    .textoSobre{
+        font-size: 20px;
+        font-weight: 300;
+        margin: 10px 15px 10px 15px;
+    }	
+
+
+    .containerInformacoes{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        height: 100%;
+        margin-bottom: 80px;
+    }
+
+    .containerInformacoes2{
+        display: flex;
+        justify-content: center;
+        margin-top: 15px;
+    }
+
+    .backgroundSobreMim{
+        margin-left: 25px;
+        background: #dcc8b6;
+        border-radius: 10px;
+        width: 520px;
+        height: 400px;
+    }
+
+    .backgroundCorporativo{
+        margin-left: 25px;
+        background: #dcc8b6;
+        border-radius: 10px;
+        width: 520px;
+        height: 400px;
+    }
+
+    .backgroundAcademico{
+        margin-left: 25px;
+        background: #dcc8b6;
+        border-radius: 10px;
+        width: 520px;
+        height: 400px;
+    }
