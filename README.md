@@ -23,5 +23,3 @@
 - **CSS**  
 - **JavaScript**
 
-## 📁 Estrutura do Projeto
-
