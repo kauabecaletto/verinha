@@ -3,7 +3,7 @@ import openai
 from flask_cors import CORS
 
 # Configuração da API OpenAI
-openai.api_key = ""
+openai.api_key = "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"
 
 with open("src/data/edital.txt", "r", encoding="utf-8") as file:
     edital_context = file.read()

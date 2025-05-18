@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vérinha - Chat</title>
+    <meta name="description" content="Chat com a Vérinha, a assistente virtual do COTIL">
+    <link rel="stylesheet" href="/src/front-end/style.css">
+    <script src="/src/front-end/script.js"></script>
+    <link rel="icon" href="/src/front-end/assents/logos/VerinhaSemFundo.png" type="image/png">
+</head>
+
+<body>
+    <header>
+        <div class="logo">Vérinha</div>
+
+        <nav class="nav-bar">
+            <ul>
+                <li><a href="/src/front-end/pages/homePage.html">Home</a></li>
+                <li><a href="https://www.cotil.unicamp.br/" target="_blank">Colégio</a></li>
+
+                
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Tela inicial centralizada -->
+    <div class="welcome-container" id="welcome-container">
+        <div class="welcome-logo">
+            <img src="/src/front-end/assents/logos/VerinhaSemFundo.png" alt="Vérinha Logo">
+        </div>
+        <h2 class="welcome-title">Como posso ajudar você hoje?</h2>
+        <form id="welcome-form" class="welcome-input-container">
+            <input type="text" id="welcome-input" placeholder="Digite sua mensagem..." autocomplete="off">
+            <button type="submit" id="welcome-button">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <line x1="22" y1="2" x2="11" y2="13"></line>
+                    <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                </svg>
+            </button>
+        </form>
+    </div>
+
+    <!-- Container de chat (inicialmente oculto) -->
+    <div class="chat-container" id="chat-container" style="display: none;">
+        <div class="chat-messages" id="chat-messages">
+            <div class="message bot-message">
+                <div class="message-avatar">
+                    <img src="/src/front-end/assents/logos/VerinhaSemFundo.png" alt="Vérinha">
+                </div>
+                <div class="message-content">
+                    <p>Olá! Eu sou a Vérinha, a assistente virtual do COTIL. Como posso ajudar você hoje?</p>
+                </div>
+            </div>
+            <!-- As mensagens da conversa serão adicionadas aqui via JavaScript -->
+        </div>
+
+        <form id="chat-form" class="chat-input-container">
+            <input type="text" id="user-input" placeholder="Digite sua mensagem..." autocomplete="off">
+            <button type="submit" id="send-button">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <line x1="22" y1="2" x2="11" y2="13"></line>
+                    <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                </svg>
+            </button>
+        </form>
+    </div>
+
+    <script src="chat-script.js"></script>
+</body>
+</html>

@@ -10,7 +10,7 @@ with open("src/data/edital.txt", "r", encoding="utf-8") as file:
 padrao_secoes = re.findall(r'\n([A-Z\sÁÉÍÓÚÂÊÔÇ]+)\n(.*?)(?=\n[A-Z\sÁÉÍÓÚÂÊÔÇ]+\n|\Z)', texto, re.DOTALL)
 
 # 3. Conectar ao banco SQLite
-conn = sqlite3.connect('chatbot_edital.db')
+conn = sqlite3.connect('edital.db')
 cursor = conn.cursor()
 
 # 4. Criar tabela
