@@ -5,7 +5,7 @@ import sqlite3
 from datetime import datetime
 
 # Configuração da API OpenAI
-openai.api_key = "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"
+openai.api_key = ""
 
 # Conectar ao banco e obter todas as seções do edital
 def carregar_edital_do_banco():
