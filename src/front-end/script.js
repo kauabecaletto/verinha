@@ -1,39 +1,41 @@
 document.addEventListener("DOMContentLoaded", function () {
-  const accordions = document.querySelectorAll('.accordion');
+    // Variável para armazenar o histórico da conversa atual
+    let conversationHistory = [];
+    
+    // Elementos da interface de acordeão
+    const accordions = document.querySelectorAll('.accordion');
 
-  accordions.forEach(accordion => {
-    const headers = accordion.querySelectorAll('.accordion-header');
+    accordions.forEach(accordion => {
+        const headers = accordion.querySelectorAll('.accordion-header');
 
-    headers.forEach(header => {
-      header.addEventListener('click', function () {
-        const isExpanded = this.getAttribute('aria-expanded') === 'true';
+        headers.forEach(header => {
+            header.addEventListener('click', function () {
+                const isExpanded = this.getAttribute('aria-expanded') === 'true';
 
-        // Só fecha se outro for aberto (impede fechar o único aberto)
-        if (!isExpanded) {
-          headers.forEach(h => {
-            h.setAttribute('aria-expanded', 'false');
-            h.nextElementSibling.style.display = 'none';
-          });
+                if (!isExpanded) {
+                    headers.forEach(h => {
+                        h.setAttribute('aria-expanded', 'false');
+                        h.nextElementSibling.style.display = 'none';
+                    });
 
-          this.setAttribute('aria-expanded', 'true');
-          this.nextElementSibling.style.display = 'block';
+                    this.setAttribute('aria-expanded', 'true');
+                    this.nextElementSibling.style.display = 'block';
+                }
+            });
+        });
+
+        let hasOpen = false;
+        headers.forEach(header => {
+            if (header.getAttribute('aria-expanded') === 'true') {
+                header.nextElementSibling.style.display = 'block';
+                hasOpen = true;
+            }
+        });
+        if (!hasOpen && headers.length > 0) {
+            headers[0].setAttribute('aria-expanded', 'true');
+            headers[0].nextElementSibling.style.display = 'block';
         }
-      });
     });
-
-    // Garante que um item esteja aberto ao carregar
-    let hasOpen = false;
-    headers.forEach(header => {
-      if (header.getAttribute('aria-expanded') === 'true') {
-        header.nextElementSibling.style.display = 'block';
-        hasOpen = true;
-      }
-    });
-    if (!hasOpen && headers.length > 0) {
-      headers[0].setAttribute('aria-expanded', 'true');
-      headers[0].nextElementSibling.style.display = 'block';
-    }
-  });
 });
 
 document.addEventListener("DOMContentLoaded", function() {
@@ -48,6 +50,9 @@ document.addEventListener("DOMContentLoaded", function() {
     const userInput = document.getElementById("user-input");
     const chatMessages = document.getElementById("chat-messages");
     
+    // Histórico da conversa atual
+    let conversationHistory = [];
+    
     // Inicialização
     if (welcomeForm) {
         welcomeForm.addEventListener("submit", function(event) {
@@ -56,7 +61,6 @@ document.addEventListener("DOMContentLoaded", function() {
             showChatInterface(initialMessage);
         });
     } else {
-        // Se não existir tela de boas-vindas, mostrar diretamente a interface de chat
         chatContainer.style.display = "flex";
         chatContainer.classList.add("fade-in");
     }
@@ -76,28 +80,22 @@ document.addEventListener("DOMContentLoaded", function() {
     
     // Função para mostrar a interface de chat e esconder a tela de boas-vindas
     function showChatInterface(initialMessage = "") {
-        // Verifica se o elemento de boas-vindas existe
         if (!welcomeContainer) return;
         
-        // Adiciona a classe para animação de saída
         welcomeContainer.classList.add("welcome-exit");
         
-        // Após a animação de saída, oculta a tela de boas-vindas e mostra o chat
         setTimeout(() => {
             welcomeContainer.style.display = "none";
             chatContainer.style.display = "flex";
             
-            // Adiciona classe para animação de entrada do chat
             setTimeout(() => {
                 chatContainer.classList.add("fade-in");
                 
-                // Se houver uma mensagem inicial, a processa
                 if (initialMessage && initialMessage.trim() !== "") {
                     addUserMessage(initialMessage);
                     sendMessageToAPI(initialMessage);
                 }
                 
-                // Focar no campo de entrada do chat
                 userInput.focus();
             }, 50);
         }, 500);
@@ -124,6 +122,13 @@ document.addEventListener("DOMContentLoaded", function() {
         
         chatMessages.appendChild(messageDiv);
         scrollToBottom();
+        
+        // Adiciona a mensagem do usuário ao histórico
+        conversationHistory.push({
+            role: "user",
+            content: message,
+            timestamp: new Date().toISOString()
+        });
     }
     
     // Função para adicionar uma mensagem do bot à conversa
@@ -151,17 +156,23 @@ document.addEventListener("DOMContentLoaded", function() {
         
         chatMessages.appendChild(messageDiv);
         scrollToBottom();
+        
+        // Adiciona a resposta do bot ao histórico
+        conversationHistory.push({
+            role: "assistant",
+            content: message,
+            timestamp: new Date().toISOString()
+        });
+        
+        // Limita o histórico a 20 mensagens para não sobrecarregar
+        if (conversationHistory.length > 20) {
+            conversationHistory = conversationHistory.slice(-20);
+        }
     }
     
-    // Função para formatar a mensagem do bot (adiciona quebras de linha e emojis)
+    // Função para formatar a mensagem do bot
     function formatBotMessage(message) {
-        // Substitui quebras de linha por <br>
         let formattedMessage = message.replace(/\n/g, "<br>");
-        
-        // Aqui você pode adicionar outras formatações como substituição de emojis
-        // Por exemplo:
-        // formattedMessage = formattedMessage.replace(/:smile:/g, "😊");
-        
         return formattedMessage;
     }
     
@@ -198,12 +209,18 @@ document.addEventListener("DOMContentLoaded", function() {
         try {
             showTypingIndicator();
             
+            // Prepara os dados para enviar, incluindo o histórico da conversa
+            const requestData = {
+                message: message,
+                conversation_history: conversationHistory
+            };
+            
             const response = await fetch("http://localhost:5000/chat", {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json"
                 },
-                body: JSON.stringify({ message: message })
+                body: JSON.stringify(requestData)
             });
             
             if (!response.ok) {
@@ -217,7 +234,7 @@ document.addEventListener("DOMContentLoaded", function() {
         } catch (error) {
             console.error("Erro:", error);
             removeTypingIndicator();
-            addBotMessage("Desculpe, estou com dificuldades para me comunicar com o servidor. Por favor, tente novamente mais tarde.");
+            addBotMessage("Desculpe, estou com dificuldades para me comunicar com o servidor. Por favor, tente novamente mais tarde. 😔");
         }
     }
     
@@ -232,8 +249,15 @@ document.addEventListener("DOMContentLoaded", function() {
     // Função para adicionar uma mensagem de boas-vindas inicial
     function addWelcomeMessage() {
         setTimeout(() => {
-            addBotMessage("Olá! Sou a Vérinha, sua assistente virtual. Como posso ajudar você hoje?");
+            addBotMessage("Olá! Sou a Vérinha, sua assistente virtual do COTIL. Como posso ajudar você hoje? 😊");
         }, 500);
+    }
+    
+    // Função para limpar o histórico da conversa (opcional)
+    function clearConversationHistory() {
+        conversationHistory = [];
+        chatMessages.innerHTML = '';
+        addWelcomeMessage();
     }
     
     // Adicionar mensagem de boas-vindas se estiver na interface de chat diretamente
@@ -247,4 +271,7 @@ document.addEventListener("DOMContentLoaded", function() {
     } else {
         userInput.focus();
     }
+    
+    // Expor função para limpar histórico globalmente (para debug/teste)
+    window.clearChat = clearConversationHistory;
 });
