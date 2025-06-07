@@ -16,9 +16,9 @@ app = Flask(__name__)
 CORS(app)
 
 # Configurações do MongoDB
-MONGO_URI = "mongodb://localhost:27017/"
-DATABASE_NAME = "verinha_bd"
-COLLECTION_NAME = "verinha_bd"
+MONGO_URI = os.getenv("MONGO_URI")  # String de conexão do Atlas no .env
+DATABASE_NAME = os.getenv("DATABASE_NAME", "verinha_bd")
+COLLECTION_NAME = os.getenv("COLLECTION_NAME", "verinha_bd")
 
 def get_mongo_client():
     """Cria uma conexão com o MongoDB"""

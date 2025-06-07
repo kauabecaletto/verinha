@@ -249,7 +249,7 @@ document.addEventListener("DOMContentLoaded", function() {
     // Função para adicionar uma mensagem de boas-vindas inicial
     function addWelcomeMessage() {
         setTimeout(() => {
-            addBotMessage("Olá! Sou a Vérinha, sua assistente virtual do COTIL. Como posso ajudar você hoje? 😊");
+            addBotMessage("Olá! Sou a Vérinha, sua assistente virtual do COTIL. Como posso ajudar? 😊");
         }, 500);
     }
     
