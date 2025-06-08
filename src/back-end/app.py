@@ -4,10 +4,10 @@ from pymongo import MongoClient
 import openai
 import json
 import os
+import re
 from pymongo.errors import ConnectionFailure, ServerSelectionTimeoutError
 from dotenv import load_dotenv
 load_dotenv()  # carrega o .env
-
 
 # Configuração da API OpenAI
 openai.api_key = os.getenv("OPENAI_API_KEY")
@@ -69,6 +69,14 @@ def testar_conexao_mongodb():
         finally:
             client.close()
     return False
+
+def formatar_resposta(texto):
+    """Remove ### e converte **texto** em <strong>texto</strong>"""
+    # Remove os ### do início da linha
+    texto = re.sub(r'^###\s*', '', texto, flags=re.MULTILINE)
+    # Substitui **texto** por <strong>texto</strong>
+    texto = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', texto)
+    return texto
 
 @app.route("/")
 def home():
@@ -165,8 +173,11 @@ def chat():
         
         resposta = response['choices'][0]['message']['content']
         
+        # Formata a resposta para remover ### e trocar **texto** por <strong>texto</strong>
+        resposta_formatada = formatar_resposta(resposta)
+        
         return jsonify({
-            "response": resposta,
+            "response": resposta_formatada,
             "status": "success"
         })
         
