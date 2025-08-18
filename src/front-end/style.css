@@ -624,7 +624,7 @@ header {
 }
 
 .bot-message .message-content {
-    background-color: var(--color-message-bot);
+    background-color: var(--color-primary);
     border-top-left-radius: var(--radius-sm);
 }
 
@@ -635,6 +635,7 @@ header {
 }
 
 .message-content p {
+    color: white;
     margin: 0;
     line-height: 1.5;
     font-size: 15px;

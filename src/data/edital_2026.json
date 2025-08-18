@@ -1,0 +1,227 @@
+{
+  "documento": {
+    "titulo_completo": "EDITAL DO PROCESSO SELETIVO PÚBLICO COTIL 2026, DE 18 DE JUNHO DE 2025",
+    "titulo_simplificado": "EDITAL DO PROCESSO SELETIVO PÚBLICO COTIL 2026",
+    "instituicao": "Colégio Técnico de Limeira (COTIL)",
+    "universidade": "Universidade Estadual de Campinas (UNICAMP)",
+    "objetivo": "Tornar públicos os procedimentos que regulamentam o Processo Seletivo Público COTIL 2026, para ingresso nos Cursos Técnicos de nível médio, integrados e concomitantes/subsequentes ao Ensino Médio.",
+    "fonte_publicacao": {
+      "orgao": "DIÁRIO OFICIAL DO ESTADO DE SÃO PAULO",
+      "data": "2025-06-24",
+      "caderno": "Executivo",
+      "secao": "Atos Normativos"
+    },
+    "autenticidade": {
+      "codigo": "2025.06.23.1.1.44.2.199.1161189",
+      "url": "https://www.doe.sp.gov.br/autenticidade"
+    }
+  },
+  "calendario_completo": [
+    {"item": 1, "evento": "Solicitação de PRPTI (Programa de Redução Parcial da Taxa de Inscrição - 50%)", "data_inicio": "2025-08-12", "data_fim": "2025-09-01"},
+    {"item": 2, "evento": "Solicitação de Isenção da Taxa de Inscrição", "data_inicio": "2025-08-12", "data_fim": "2025-09-01"},
+    {"item": 3, "evento": "Divulgação do resultado de PRPTI e de Isenção", "data": "2025-09-09", "observacao": "Após as 16h"},
+    {"item": 4, "evento": "Inscrição", "data_inicio": "2025-08-12", "data_fim": "2025-10-06"},
+    {"item": 5, "evento": "Recolhimento da taxa de Inscrição", "data_limite": "2025-10-07"},
+    {"item": 6, "evento": "Divulgação dos locais de prova", "data": "2025-10-13", "observacao": "Após as 16h"},
+    {"item": 7, "evento": "Prova", "data": "2025-10-19"},
+    {"item": 8, "evento": "Recursos contra questões da Prova", "data_inicio": "2025-10-20", "data_fim": "2025-10-22"},
+    {"item": 9, "evento": "Averiguação fenotípica dos candidatos optantes pelas cotas étnico-raciais", "data_inicio": "2025-11-24", "data_fim": "2025-11-28"},
+    {"item": 10, "evento": "Convocados para Matrícula e divulgação do Calendário de Matrícula", "data": "2025-12-12", "observacao": "Após as 16h"}
+  ],
+  "disposicoes_preliminares": [
+    {"item": "2.1", "texto": "O planejamento e a coordenação deste processo seletivo estão sob responsabilidade do Colégio Técnico de Limeira e da Comissão Executiva do Processo Seletivo."},
+    {"item": "2.2", "texto": "É obrigatório ao candidato e seu responsável legal tomar conhecimento de todas as normas e procedimentos do Edital. A inscrição implica a aceitação das normas."},
+    {"item": "2.3", "texto": "É obrigatório ao candidato e seu responsável legal tomar conhecimento da Deliberação (UNICAMP) CONSU-A-21, de 02 de junho de 2020, que dispõe sobre a política de cotas."},
+    {"item": "2.4", "texto": "Todas as informações estarão disponíveis no endereço eletrônico www.exame.cotil.unicamp.br."},
+    {"item": "2.5", "texto": "A comunicação oficial com o candidato será por meio do e-mail pessoal cadastrado no ato da inscrição."},
+    {"item": "2.6", "texto": "Em caso de dúvidas, o e-mail de contato é vestibulinho@cotil.unicamp.br."}
+  ],
+  "cursos_oferecidos": {
+    "integrado_ensino_medio": {
+      "publico_alvo": "Candidatos que possuem o Ensino Fundamental completo ou estejam concluindo o 9º ano. Vedado para quem já concluiu o Ensino Médio.",
+      "lista_cursos": [
+        {"codigo": "01", "nome": "Desenvolvimento de Sistemas", "periodo": "diurno", "duracao_anos": 3, "vagas_total": 40, "vagas_ppi": 14, "vagas_epu": 14, "vagas_ac": 12},
+        {"codigo": "02", "nome": "Edificações", "periodo": "diurno", "duracao_anos": 3, "vagas_total": 40, "vagas_ppi": 14, "vagas_epu": 14, "vagas_ac": 12},
+        {"codigo": "03", "nome": "Enfermagem", "periodo": "diurno", "duracao_anos": 3, "vagas_total": 40, "vagas_ppi": 14, "vagas_epu": 14, "vagas_ac": 12, "obs": "Estágio obrigatório concomitante."},
+        {"codigo": "04", "nome": "Agrimensura", "periodo": "diurno", "duracao_anos": 3, "vagas_total": 40, "vagas_ppi": 14, "vagas_epu": 14, "vagas_ac": 12},
+        {"codigo": "05", "nome": "Mecânica", "periodo": "diurno", "duracao_anos": 3, "vagas_total": 40, "vagas_ppi": 14, "vagas_epu": 14, "vagas_ac": 12},
+        {"codigo": "06", "nome": "Qualidade", "periodo": "diurno", "duracao_anos": 3, "vagas_total": 40, "vagas_ppi": 14, "vagas_epu": 14, "vagas_ac": 12},
+        {"codigo": "11", "nome": "Desenvolvimento de Sistemas", "periodo": "noturno", "duracao_anos": 4, "vagas_total": 40, "vagas_ppi": 14, "vagas_epu": 14, "vagas_ac": 12},
+        {"codigo": "15", "nome": "Mecânica", "periodo": "noturno", "duracao_anos": 4, "vagas_total": 40, "vagas_ppi": 14, "vagas_epu": 14, "vagas_ac": 12},
+        {"codigo": "16", "nome": "Qualidade", "periodo": "noturno", "duracao_anos": 3, "vagas_total": 40, "vagas_ppi": 14, "vagas_epu": 14, "vagas_ac": 12},
+        {"codigo": "18", "nome": "Administração", "periodo": "noturno", "duracao_anos": 3, "vagas_total": 40, "vagas_ppi": 14, "vagas_epu": 14, "vagas_ac": 12}
+      ]
+    },
+    "concomitante_subsequente": {
+      "publico_alvo": "Candidatos que estiverem cursando o Ensino Médio em outro período ou já o tenham concluído.",
+      "lista_cursos": [
+        {"codigo": "21", "nome": "Desenvolvimento de Sistemas", "periodo": "noturno", "duracao_anos": 2, "vagas_total": 40, "vagas_ppi": 14, "vagas_epu": 14, "vagas_ac": 12},
+        {"codigo": "22", "nome": "Edificações", "periodo": "noturno", "duracao_anos": 2, "vagas_total": 40, "vagas_ppi": 14, "vagas_epu": 14, "vagas_ac": 12},
+        {"codigo": "23", "nome": "Enfermagem", "periodo": "tarde", "duracao_anos": 2, "vagas_total": 40, "vagas_ppi": 14, "vagas_epu": 14, "vagas_ac": 12, "obs": "Requer estar cursando a partir da 2ª série do EM em 2026 ou já ter concluído. Estágio obrigatório concomitante."},
+        {"codigo": "24", "nome": "Agrimensura", "periodo": "noturno", "duracao_anos": 2, "vagas_total": 40, "vagas_ppi": 14, "vagas_epu": 14, "vagas_ac": 12},
+        {"codigo": "25", "nome": "Mecânica", "periodo": "noturno", "duracao_anos": 2, "vagas_total": 40, "vagas_ppi": 14, "vagas_epu": 14, "vagas_ac": 12},
+        {"codigo": "26", "nome": "Qualidade", "periodo": "noturno", "duracao_anos": 2, "vagas_total": 40, "vagas_ppi": 14, "vagas_epu": 14, "vagas_ac": 12},
+        {"codigo": "27", "nome": "Prótese Dentária", "periodo": "noturno", "duracao_anos": 2, "vagas_total": 30, "vagas_ppi": 11, "vagas_epu": 11, "vagas_ac": 8, "obs": "Curso com estágio obrigatório."}
+      ]
+    }
+  },
+  "informacoes_aulas": {
+    "horario_diurno": "Segunda a sexta-feira, das 7h45 às 12h50 e das 13h10 às 17h15. Sábados podem ter atividades como simulados, reposição de aulas, visitas técnicas.",
+    "horario_enfermagem_tarde": "Segunda a sexta-feira, das 13h10 às 18h.",
+    "horario_noturno": "Segunda a sexta-feira, das 19h às 23h. Sábados pela manhã e/ou tarde, de acordo com a atribuição de aulas.",
+    "dispensas": "Não haverá dispensa de alunos por motivos filosóficos, políticos ou de trabalho. Casos religiosos serão analisados conforme legislação.",
+    "catalogo_cursos_url": "www.exame.cotil.unicamp.br"
+  },
+  "inscricao": {
+    "periodo": "12 de agosto a 06 de outubro de 2025",
+    "etapas_obrigatorias": ["Leitura do edital", "Cadastro no Portal do Candidato", "Preenchimento de formulários (Dados Pessoais e Socioeconômico)", "Inscrição nos cursos (até 2 opções)", "Pagamento da taxa"],
+    "taxa": {"valor_integral_BRL": 120.00, "data_limite_pagamento": "2025-10-07"},
+    "regras_gerais": {
+      "limite_inscricoes": "Uma única inscrição por candidato, com até duas opções de curso.",
+      "responsabilidade_dados": "A veracidade das informações é de responsabilidade exclusiva do candidato ou seu responsável legal.",
+      "nao_reembolso": "Não haverá devolução da taxa de inscrição.",
+      "responsabilidade_tecnica": "O COTIL não se responsabiliza por falhas técnicas que impeçam a inscrição."
+    },
+    "procedimento_detalhado": {
+      "cadastro_portal": {
+        "periodo": "12 de agosto a 06 de outubro de 2025",
+        "url": "www.exame.cotil.unicamp.br",
+        "documentos_obrigatorios": "CPF e documento de identidade do PRÓPRIO candidato. Não podem ser os dos pais/responsáveis.",
+        "requisitos_tecnicos": "Conta de e-mail pessoal e ativa do candidato, para ativação do cadastro e recuperação de senha.",
+        "passos": ["Acessar o site e clicar em 'Entrar'", "Escolher 'Quero me cadastrar'", "Preencher os dados e clicar em 'Cadastrar'", "Ativar a conta através do link enviado por e-mail."]
+      },
+      "preenchimento_formularios": "Ao acessar a conta pela primeira vez, preencher os formulários de Dados Pessoais e Questionário Socioeconômico. É preciso declarar concordância com o edital e a veracidade dos dados.",
+      "realizacao_inscricao": {
+        "passos": ["Acessar o sistema com CPF e senha", "Clicar em 'Inscrição'", "Escolher até dois cursos e a cidade de realização da prova (Limeira ou Campinas)", "Clicar em 'Efetuar Inscrição'."],
+        "pagamento": "Após a inscrição, gerar o boleto na área 'Pagamento' e pagar até 07 de outubro de 2025. A inscrição só é confirmada após a compensação bancária."
+      }
+    }
+  },
+  "beneficios_taxa": {
+    "reducao_parcial_50": {
+      "programa": "PRPTI",
+      "base_legal": "Lei Estadual nº 12.782, de 20 de dezembro de 2007",
+      "periodo_solicitacao": "12 de agosto a 01 de setembro de 2025",
+      "valor_com_reducao_BRL": 60.00,
+      "data_resultado": "09 de setembro de 2025, após as 16h",
+      "requisitos_cumulativos": [
+        "Ser estudante (ensino fundamental, médio, pré-vestibular ou superior).",
+        "Receber remuneração mensal inferior a 2 salários mínimos (R$ 3.036,00) ou estar desempregado."
+      ],
+      "documentos_necessarios": {
+        "comprovacao_estudante": ["Certidão ou declaração de matrícula", "Carteira de identidade estudantil."],
+        "comprovacao_renda": ["Contracheque ou recibo de pagamento", "Extrato de benefícios (INSS)", "Recibos de comissões, aluguéis, etc.", "Comprovante de pensão alimentícia", "Comprovantes de programas sociais (Auxílio Brasil, etc.)."],
+        "comprovacao_desemprego": ["Recibos de seguro-desemprego e FGTS", "Documentos de rescisão do último contrato de trabalho."]
+      }
+    },
+    "isencao_total": {
+      "periodo_solicitacao": "12 de agosto a 01 de setembro de 2025",
+      "data_resultado": "09 de setembro de 2025, após as 16h",
+      "modalidades": [
+        {
+          "publico": "Estudantes de escolas públicas",
+          "requisito_renda": "Remuneração mensal familiar inferior a 1,5 salário mínimo (R$ 2.277,00) ou estar desempregado(a).",
+          "documentos": "Declaração de matrícula de escola pública + comprovantes de renda ou desemprego."
+        },
+        {
+          "publico": "Vínculo com a UNICAMP/FUNCAMP",
+          "detalhes": "Servidor(a) ou filho(a) de servidor(a) da UNICAMP; funcionário(a) ou filho(a) de funcionário(a) da FUNCAMP; funcionário(a) ou filho(a) de funcionário(a) de empresas terceirizadas.",
+          "documentos": ["Holerite ou declaração de vínculo de trabalho.", "Para filhos, certidão de nascimento + documento de vínculo do pai/mãe."]
+        }
+      ]
+    }
+  },
+  "programa_cotas": {
+    "base_legal": "Deliberação (UNICAMP) CONSU-A-21, de 02 de junho de 2020",
+    "periodo_opcao": "Durante o período de inscrições, até 06 de outubro de 2025.",
+    "distribuicao_vagas_percentual": [
+      {"grupo": 1, "tipo": "PPI+EPU", "percentual": 35, "descricao": "Candidatos autodeclarados pretos, pardos ou indígenas que cursaram integralmente o Ensino Fundamental II (6º ao 9º ano) em escola pública brasileira."},
+      {"grupo": 2, "tipo": "EPU", "percentual": 35, "descricao": "Candidatos que cursaram integralmente o Ensino Fundamental II em escola pública brasileira."},
+      {"grupo": 3, "tipo": "Ampla Concorrência (AC)", "percentual": 30, "descricao": "Todos os candidatos, incluindo os cotistas não classificados nas vagas reservadas."}
+    ],
+    "regras_escola_publica": "Não são consideradas escolas públicas: Sistema S (SESI, SENAI), Fundação Bradesco, etc. Bolsistas em escolas particulares não têm direito às cotas EPU.",
+    "procedimento_opcao_cotas": ["Acessar a área do candidato", "Abrir a opção 'Cotas' e marcar a(s) desejada(s)", "Fazer o download da declaração correspondente (Anexo I, II ou III)", "Imprimir, assinar (candidato ou responsável, se menor)", "Anexar o documento digitalizado (PDF ou imagem) e enviar."],
+    "averiguacao_etnico_racial": {
+      "publico": "Candidatos autodeclarados pretos ou pardos.",
+      "procedimento": "Serão submetidos a uma Comissão de Averiguação, que utilizará exclusivamente o critério fenotípico para aferição.",
+      "base_legal": "Resolução (UNICAMP) GR nº 74/2020.",
+      "consequencia_indeferimento": "O candidato perde o direito à vaga de cota PPI e continua concorrendo apenas nas outras modalidades em que se inscreveu (EPU, se for o caso, e Ampla Concorrência)."
+    },
+    "comprovacao_indigena": ["Registro Administrativo de Nascimento Indígena (RANI)", "Carteira de Identidade com etnia registrada", "Declaração de Etnia e de Vínculo com Comunidade Indígena (Anexo IV), assinada por 3 lideranças indígenas e com atestado da FUNAI."],
+    "consequencia_nao_comprovacao_epu": "Candidato convocado por cota EPU que não comprovar ter cursado o Ensino Fundamental II em escola pública será desclassificado do processo seletivo."
+  },
+  "uso_nome_social": {
+    "base_legal": ["Resolução CNE/CP nº 1, de 19 de janeiro de 2018", "Resolução (UNICAMP) GR-005/2020, de 13 de janeiro de 2020"],
+    "procedimento": "Indicar o desejo no Formulário de Inscrição e preencher o requerimento (Anexo V).",
+    "requisito": "Anexar o requerimento preenchido com firma reconhecida (do próprio candidato se maior de 18, ou dos pais/responsáveis se menor).",
+    "prazo": "Até 06 de outubro de 2025."
+  },
+  "selecao_prova": {
+    "data": "2025-10-19",
+    "horario": "14h00",
+    "duracao": "3 horas e 30 minutos",
+    "abertura_portoes": "12h30",
+    "fechamento_portoes": "13h30",
+    "estrutura": {
+      "parte_1_objetiva": {"carater": "Classificatório", "total_questoes": 48, "alternativas_por_questao": 4, "distribuicao": [{"materia": "Língua Portuguesa", "questoes": 12}, {"materia": "Matemática", "questoes": 12}, {"materia": "Ciências da Natureza", "questoes": 8}, {"materia": "História", "questoes": 8}, {"materia": "Geografia", "questoes": 8}]},
+      "parte_2_redacao": {"carater": "Eliminatório e Classificatório", "limite_linhas": "mínimo de 8 e máximo de 12", "causas_anulacao": ["menos de 8 linhas", "identificação pessoal", "desenhos", "mensagens ofensivas", "fuga do tema"]}
+    },
+    "regras_dia_prova": {
+      "documentacao_obrigatoria": "Documento de identificação original com foto recente.",
+      "materiais": "Caneta esferográfica azul ou preta, lápis, apontador, borracha.",
+      "proibicoes": "Celular, smartwatch, relógio eletrônico, calculadora, boné, corretivo líquido.",
+      "permanencia_sala": "O candidato só poderá deixar a sala após 90 minutos do início da prova.",
+      "procedimento_final": "Entregar ao fiscal a ficha de respostas e a folha de redação. Pode levar o caderno de questões."
+    },
+    "gabarito_e_recursos": {
+      "divulgacao_gabarito": "19 de outubro de 2025, a partir das 18h.",
+      "periodo_recursos": "20 a 22 de outubro de 2025, via e-mail para vestibulinho@cotil.unicamp.br."
+    }
+  },
+  "correcao_e_classificacao": {
+    "etapa_1_objetiva": "Correção dos gabaritos. Cada questão correta vale 1 ponto. Questão anulada tem seu valor atribuído a todos os candidatos.",
+    "etapa_2_redacao": {
+      "criterio_correcao": "Serão corrigidas as redações dos candidatos com as melhores notas na prova objetiva, em um número correspondente a até 4 vezes o número de vagas do curso.",
+      "pontuacao": "Até 10 pontos. Nota 0 (zero) desclassifica o candidato."
+    },
+    "nota_final": "Soma dos pontos da prova objetiva e da redação.",
+    "criterios_desempate_ordem": ["Maior nota na redação", "Maior nota em Matemática", "Maior nota em Português", "Maior nota em Ciências da Natureza", "Maior nota em História", "Maior nota em Geografia", "Maior idade (data e hora de nascimento)."],
+    "guarda_documentos": "As folhas de resposta serão guardadas por 6 meses após a última chamada. Os cadernos de questões são eliminados após a prova."
+  },
+  "convocacao_e_matricula": {
+    "primeira_chamada": "12 de dezembro de 2025, a partir das 16h.",
+    "procedimento_convocacao": "A convocação segue uma lista única de classificação, preenchendo as vagas na seguinte ordem de grupos: Grupo 1 (PPI+EPU), Grupo 2 (EPU), Grupo 3 (Ampla Concorrência).",
+    "regras_vagas_remanescentes_cotas": "Vagas não preenchidas do Grupo 1 (PPI+EPU) podem ser ocupadas por candidatos PPI (sem EPU). Vagas não preenchidas dos Grupos 1 e 2 são transferidas para a Ampla Concorrência (Grupo 3).",
+    "regra_multipla_aprovacao": "Candidato convocado para mais de um curso deve optar por apenas uma vaga. A escolha é irreversível e implica a desistência da outra opção.",
+    "cancelamento_matricula": "O cancelamento da matrícula é um ato irreversível."
+  },
+  "vagas_remanescentes_processo_final": {
+    "definicao": "Vaga não ocupada após a convocação de todos os classificados (até 4 vezes o número de vagas).",
+    "elegibilidade": "Candidatos inscritos e classificados no processo seletivo original que não foram convocados para matrícula.",
+    "inscricao": "Haverá um calendário específico. O candidato deverá manifestar interesse em um único curso.",
+    "criterio_selecao": "Ampla concorrência, utilizando a nota final do processo seletivo original. Os critérios de desempate são os mesmos."
+  },
+  "disposicoes_finais": [
+    {"item": "15.1", "texto": "A prestação de informação falsa, apurada a qualquer momento, ensejará o cancelamento da matrícula."},
+    {"item": "15.2", "texto": "A declaração falsa ou não comprovação de informações acarretará a desclassificação do candidato e perda da vaga."},
+    {"item": "15.3", "texto": "A matrícula em cursos integrados é vedada a quem já concluiu o Ensino Médio. A descoberta posterior levará ao cancelamento da matrícula."},
+    {"item": "15.4", "texto": "Os resultados deste processo seletivo são válidos apenas para o ano letivo de 2026."},
+    {"item": "15.5", "texto": "É responsabilidade do candidato acompanhar editais, normas e avisos no site www.exame.cotil.unicamp.br."},
+    {"item": "15.6", "texto": "Todos os dados e resultados serão divulgados no site para garantir transparência."},
+    {"item": "15.7", "texto": "Os casos omissos serão decididos pela Comissão Executiva do Processo Seletivo."}
+  ],
+  "anexos": {
+    "anexo_i": {"titulo": "DECLARAÇÃO - COTA PPI+EPU", "texto_completo": "Eu, [NOME], de nacionalidade [NACIONALIDADE], nascido em [DATA], portador(a) da cédula de identidade (RG) nº [RG], candidato do Processo Seletivo COTIL 2026, declaro, sob as penas da lei, que, caso seja classificado, estou ciente de que: I. ao optar por participar pelo Programa de Cotas Étnico-Raciais e Sociais, terei que, no ato da matrícula, apresentar os documentos comprobatórios de que cursei o Ensino Fundamental II integralmente em escola pública brasileira. Se convocado por vaga EPU ou EPU+PPI e não comprovar, serei desclassificado. II(a). ao também me declarar preto ou pardo (cota PPI), deverei participar do processo de heteroidentificação. II(b). ao também me declarar indígena (cota PPI), deverei comprovar pertencimento a uma etnia indígena. III. estou de acordo que, caso minha declaração étnico-racial seja indeferida, perderei o direito à cota PPI. [Local, Data, Assinaturas]. *Inclui aviso sobre crime de Falsidade Ideológica (Art. 299 do Código Penal)."},
+    "anexo_ii": {"titulo": "DECLARAÇÃO - COTA PPI", "texto_completo": "Eu, [NOME], de nacionalidade [NACIONALIDADE], nascido em [DATA], portador(a) da cédula de identidade (RG) nº [RG], candidato do Processo Seletivo COTIL 2026, declaro, sob as penas da lei, que, caso seja classificado, estou ciente de que: I(a). ao me declarar preto ou pardo (cota PPI), deverei participar do processo de heteroidentificação. I(b). ao me declarar indígena (cota PPI), deverei comprovar pertencimento a uma etnia indígena. II. estou de acordo que, caso minha declaração étnico-racial seja indeferida, perderei o direito à esta cota, passando a concorrer em ampla concorrência. [Local, Data, Assinaturas]. *Inclui aviso sobre crime de Falsidade Ideológica."},
+    "anexo_iii": {"titulo": "DECLARAÇÃO - COTA EPU", "texto_completo": "Eu, [NOME], de nacionalidade [NACIONALIDADE], nascido em [DATA], portador(a) da cédula de identidade (RG) nº [RG], candidato do Processo Seletivo COTIL 2026, declaro, sob as penas da lei, que cursei o Ensino Fundamental II integralmente em escola pública brasileira e estou ciente de que: I. terei que apresentar os documentos comprobatórios no ato da matrícula. II. se convocado em vaga EPU e não comprovar essa condição, serei desclassificado. III. em caso de falsidade ideológica, ficarei sujeito às sanções prescritas no Código Penal. [Local, Data, Assinaturas]. *Inclui aviso sobre crime de Falsidade Ideológica."},
+    "anexo_iv": {"titulo": "DECLARAÇÃO DE ETNIA E DE VÍNCULO COM COMUNIDADE INDÍGENA", "conteudo": "Formulário para o candidato declarar sua etnia e vínculo com comunidade indígena, exigindo dados de contato, local de residência, assinatura de 3 lideranças indígenas diferentes e atestado de um representante regional da FUNAI."},
+    "anexo_v": {"titulo": "REQUERIMENTO DE USO DO NOME SOCIAL", "conteudo": "Formulário para o candidato solicitar que seu nome social seja utilizado nos documentos oficiais do processo seletivo, exigindo firma reconhecida."},
+    "anexo_vi_programa_estudos": {
+      "portugues": ["Reflexão sobre textos", "Gênero textuais", "Acentuação", "Ortografia", "Estrutura e formação das palavras", "Pontuação", "Classes de palavras", "Período simples e composto", "Concordâncias", "Regências", "Figuras de linguagem", "Variações linguísticas"],
+      "matematica": ["Números (naturais, inteiros, racionais, irracionais)", "Potenciação, radiciação", "Expressões algébricas", "Produtos notáveis e fatorações", "Razões e proporções", "Porcentagem", "Equações de 1º e 2º graus", "Sistemas de equações", "Geometria plana", "Relações métricas e trigonométricas no triângulo retângulo", "Áreas de figuras planas", "Noções de estatística"],
+      "ciencias_natureza": ["Cinemática", "Dinâmica de Newton", "Energia", "Termologia", "Som", "Astronomia", "Magnetismo", "Propriedades da matéria", "Atomística", "Ligações químicas", "Misturas", "Reações químicas", "Corpo Humano (célula, sistemas)", "Programas de Saúde", "Biodiversidade e evolução", "Meio Ambiente"],
+      "historia": ["Da pré-história à antiguidade", "Mundo clássico e medievo", "Mundo moderno e conexões globais", "América colonial", "Modernidade e capitalismo", "Crise do Antigo Regime", "Independências nas Américas", "Brasil no século XIX", "Imperialismos", "República no Brasil até meados do séc. XX", "Totalitarismos e conflitos mundiais", "Brasil pós-1946", "História recente"],
+      "geografia": ["Cartografia", "Geografia Econômica e Meio Ambiente", "Território Brasileiro", "Geopolítica e Globalização"]
+    }
+  }
+}
