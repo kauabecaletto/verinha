@@ -23,7 +23,7 @@ A solução encontrada foi aplicar IA para interpretar o edital e responder perg
 
 ## 📸 Inspiração e Contexto
 
--A Vérinha foi apresentada durante a Feira de Ciências e Tecnologia do COTIL, como meu TCC e projeto integrador de conclusão do ensino médio técnico.
+A Vérinha foi apresentada durante a Feira de Ciências e Tecnologia do COTIL, como meu TCC e projeto integrador de conclusão do ensino médio técnico.
 - Inspirada na zeladora Vérinha, figura querida e prestativa do colégio, o chatbot carrega sua essência de estar sempre pronta para ajudar.
 - Foi iniciada no final de 2024, após minha participação no Microsoft AI Tour, onde percebi o potencial da IA aplicada a problemas reais.
 - O projeto conquistou o 2º lugar entre os melhores trabalhos do curso na feira.
