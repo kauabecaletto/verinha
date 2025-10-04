@@ -8,7 +8,7 @@
 - Respostas geradas com base no edital do processo seletivo  
 - Interface web simples e intuitiva  
 - Integração com a API da OpenAI para geração de respostas  
-- Armazenamento leve com SQLite  
+- Armazenamento clusterizado e escalavel via MongoDB  
 
 ## 🧠 Tecnologias Utilizadas
 
@@ -16,7 +16,7 @@
 - **Python**  
 - **Flask**  
 - **API da OpenAI**  
-- **SQLite**
+- **MongoDB**
 
 ### Frontend
 - **HTML**  
